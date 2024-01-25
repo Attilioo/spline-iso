@@ -1,10 +1,9 @@
-
 import "./App.css";
 
 function App() {
   return (
     <>
-      <h1>Hello Tim</h1>
+      <spline-viewer url="https://prod.spline.design/jIt7BC6UThHrEydv/scene.splinecode"></spline-viewer>
     </>
   );
 }
